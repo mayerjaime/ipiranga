@@ -1,4 +1,4 @@
-# IPIRANGA /KM DE VANTAGENS / ABASTECE AÍ
+# IPIRANGA / KM DE VANTAGENS / ABASTECE AÍ
 
 Repositório do Teste Pratico - Automacao Web - IPIRANGA
 
